@@ -1,4 +1,5 @@
 # My‑Scripts
+> ⚠️ This repo is mainly a personal code backup and sandbox. Not really built for production or others to use. But you're welcome to explore or borrow anything here!
 
 👋 Hey there!
 
