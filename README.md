@@ -1,7 +1,10 @@
-Hey there! 👋
-This is a collection of projects I've been working on — mostly for learning and fun. Some are complete, some are still a work in progress. I'm backing them up here and sharing them in case they help or inspire someone else.
+# My‑Scripts
 
-I know it’s not much yet, but I’m super proud of what I’ve built so far. 💪
-Feel free to fork, use, remix, or learn from the code however you'd like!
+👋 Hey there!
 
-Jesus loves you — and I hope you’re having a great day. 😊
+This repo contains all the CLI and GUI projects I’m working on (mostly experiments and learning tools).  
+Even if there’s just 500 lines of code overall, I’m proud of it—because I built it, and others might find it helpful!
+
+Feel free to fork, remix, reuse, or tinker with anything here.
+
+> *Note: I’m just learning. Take the code as-is, and enjoy.*
