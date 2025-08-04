@@ -1,0 +1,179 @@
+=== NETWORK INFO Wed 07/23/2025 19:48:41.64 === 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : WardsPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : eniac.com
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-V
+   Physical Address. . . . . . . . . : BC-FC-E7-3B-14-46
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0C
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a76b:c984:e9da:7f3d%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 755630119
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-AB-01-02-BC-FC-E7-3B-14-46
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 2C-7B-A0-C2-72-D5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 2E-7B-A0-C2-72-D4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9462
+   Physical Address. . . . . . . . . : 2C-7B-A0-C2-72-D4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::959d:8bed:e6bc:b72b%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.0.7(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, July 23, 2025 7:41:21 PM
+   Lease Expires . . . . . . . . . . : Wednesday, July 23, 2025 8:41:21 PM
+   Default Gateway . . . . . . . . . : 192.168.0.1
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 53246880
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-AB-01-02-BC-FC-E7-3B-14-46
+   DNS Servers . . . . . . . . . . . : 75.76.160.3
+                                       75.76.160.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:27036          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49670          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:27060        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49867        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:54589        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:54589        127.0.0.1:54597        ESTABLISHED
+  TCP    127.0.0.1:54591        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:54591        127.0.0.1:54596        ESTABLISHED
+  TCP    127.0.0.1:54596        127.0.0.1:54591        ESTABLISHED
+  TCP    127.0.0.1:54597        127.0.0.1:54589        ESTABLISHED
+  TCP    192.168.0.7:139        0.0.0.0:0              LISTENING
+  TCP    192.168.0.7:54522      96.17.32.72:443        ESTABLISHED
+  TCP    192.168.0.7:54525      23.192.229.108:443     ESTABLISHED
+  TCP    192.168.0.7:54526      20.59.87.227:443       ESTABLISHED
+  TCP    192.168.0.7:54553      192.168.0.20:8009      ESTABLISHED
+  TCP    192.168.0.7:54554      192.168.0.14:8009      ESTABLISHED
+  TCP    192.168.0.7:54606      50.17.55.29:443        ESTABLISHED
+  TCP    192.168.0.7:54628      34.128.128.0:443       ESTABLISHED
+  TCP    192.168.0.7:54629      96.17.32.72:443        ESTABLISHED
+  TCP    192.168.0.7:54651      162.159.135.234:443    ESTABLISHED
+  TCP    192.168.0.7:54652      96.17.32.72:443        ESTABLISHED
+  TCP    192.168.0.7:54654      162.159.137.232:443    CLOSE_WAIT
+  TCP    192.168.0.7:54664      162.254.194.57:443     ESTABLISHED
+  TCP    192.168.0.7:54674      184.25.164.103:443     ESTABLISHED
+  TCP    192.168.0.7:54675      184.25.164.103:443     ESTABLISHED
+  TCP    192.168.0.7:54678      104.67.208.180:443     ESTABLISHED
+  TCP    192.168.0.7:54679      104.120.129.82:443     ESTABLISHED
+  TCP    192.168.0.7:54681      40.104.46.82:443       ESTABLISHED
+  TCP    192.168.0.7:54682      104.120.129.71:443     ESTABLISHED
+  TCP    192.168.0.7:54684      104.120.129.79:443     ESTABLISHED
+  TCP    192.168.0.7:54685      162.159.129.235:443    ESTABLISHED
+  TCP    192.168.0.7:54785      64.233.176.94:443      TIME_WAIT
+  TCP    192.168.0.7:54826      64.233.176.94:443      TIME_WAIT
+  TCP    192.168.0.7:55013      142.250.105.95:443     TIME_WAIT
+  TCP    192.168.0.7:55020      23.48.105.13:443       ESTABLISHED
+  TCP    192.168.0.7:55031      96.17.32.72:443        ESTABLISHED
+  TCP    192.168.0.7:55034      52.23.18.190:443       CLOSE_WAIT
+  TCP    192.168.0.7:55037      20.49.150.241:443      TIME_WAIT
+  TCP    192.168.0.7:55039      20.49.150.241:443      TIME_WAIT
+  TCP    192.168.0.7:55041      20.49.150.241:443      TIME_WAIT
+  TCP    192.168.0.7:55042      20.49.150.241:443      TIME_WAIT
+  TCP    192.168.0.7:55044      20.49.150.241:443      TIME_WAIT
+  TCP    192.168.0.7:55050      52.167.249.196:443     TIME_WAIT
+  TCP    192.168.0.7:55051      20.189.173.5:443       ESTABLISHED
+  TCP    192.168.0.7:55052      23.101.168.44:443      ESTABLISHED
+  TCP    192.168.0.7:55053      23.96.180.189:443      ESTABLISHED
+  TCP    192.168.0.7:55054      23.101.168.44:443      ESTABLISHED
+  TCP    192.168.0.7:55055      23.96.180.189:443      ESTABLISHED
+  TCP    192.168.0.7:55056      23.96.180.189:443      ESTABLISHED
+  TCP    192.168.0.7:55060      23.49.5.197:443        ESTABLISHED
+  TCP    192.168.0.7:55061      40.126.28.11:443       ESTABLISHED
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:7680              [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49670             [::]:0                 LISTENING
+  TCP    [::1]:49669            [::]:0                 LISTENING
+  TCP    [::1]:49867            [::]:0                 LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:6666           *:*                    
+  UDP    0.0.0.0:27036          *:*                    
+  UDP    0.0.0.0:58565          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10110        *:*                    
+  UDP    127.0.0.1:10111        *:*                    
+  UDP    127.0.0.1:51552        *:*                    
+  UDP    127.0.0.1:58285        127.0.0.1:58285        
+  UDP    127.0.0.1:62873        *:*                    
+  UDP    192.168.0.7:137        *:*                    
+  UDP    192.168.0.7:138        *:*                    
+  UDP    192.168.0.7:1900       *:*                    
+  UDP    192.168.0.7:27036      *:*                    
+  UDP    192.168.0.7:51551      *:*                    
+  UDP    192.168.56.1:137       *:*                    
+  UDP    192.168.56.1:138       *:*                    
+  UDP    192.168.56.1:1900      *:*                    
+  UDP    192.168.56.1:51550     *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:51549            *:*                    
+  UDP    [fe80::959d:8bed:e6bc:b72b%3]:1900  *:*                    
+  UDP    [fe80::959d:8bed:e6bc:b72b%3]:51548  *:*                    
+  UDP    [fe80::a76b:c984:e9da:7f3d%12]:1900  *:*                    
+  UDP    [fe80::a76b:c984:e9da:7f3d%12]:51547  *:*                    
